@@ -12,5 +12,5 @@ Links to valuable (software) pages, channels, etc.
 ## Django Rest Framework
 - [Effectively Using Django REST Framework Serializers](https://testdriven.io/blog/drf-serializers/)
 
-- ## Google Analytics
+## Google Analytics
 - [GA Dev Tools](https://ga-dev-tools.google/)
